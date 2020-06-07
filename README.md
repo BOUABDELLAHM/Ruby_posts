@@ -1,2 +1,1 @@
-# ruby_project
-Projet Ruby
+# Système de posts
